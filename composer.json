@@ -1,0 +1,16 @@
+{
+    "name": "cbryer/silverstripe-google-store-finder",
+    "description": "Integrates a search for location by zipcode capability with a silverstripe website, powered by google maps api",
+    "keywords": ["google maps", "silverstripe","geolocation"],
+    "type": "silverstripe-module",
+    "target-dir": "google-store-finder",
+    "homepage": "https://github.com/cbryer/google-store-finder",
+    "license": "MIT",
+    "authors": [{
+        "name": "Chris Bryer",
+        "email": "chris@chrisbryer.com"
+    }],
+    "require": {
+        "silverstripe/framework": ">=3.0"
+    }
+}
