@@ -8,7 +8,7 @@
     "license": "MIT",
     "authors": [{
         "name": "Chris Bryer",
-        "email": "chris@chrisbryer.com"
+        "email": "cjbryer@gmail.com"
     }],
     "require": {
         "silverstripe/framework": ">=3.0"
