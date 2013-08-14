@@ -4,7 +4,7 @@
     "keywords": ["google maps", "silverstripe","geolocation"],
     "type": "silverstripe-module",
     "target-dir": "google-store-finder",
-    "homepage": "https://github.com/cbryer/google-store-finder",
+    "homepage": "https://github.com/cbryer/silverstripe-google-store-finder",
     "license": "MIT",
     "authors": [{
         "name": "Chris Bryer",
