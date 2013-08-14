@@ -3,6 +3,8 @@ google-store-finder
 
 Silverstripe module that provides functionality to search for a location (locations entered in the cms) based on zipcode.  
 
+extract to a folder named google-store-finder in the root of your web host.
+
 Code is based on google's sample geolocation and location lookup code, retrofitted into silverstripe structure.  
 https://developers.google.com/maps/articles/phpsqlsearch_v3  
 https://developers.google.com/maps/documentation/javascript/examples/map-geolocation
